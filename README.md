@@ -10,9 +10,9 @@ Robofriends was built using:
 - JSON Placeholder APIs, to get some info data and assign it to the robots
 
 ## Main Features:
- [x] Search by name or any field existing on the user
- [x] CSS Animated website
- [x] Fully responsive
+ - [x] Search by name or any field existing on the user
+ - [x] CSS Animated website
+ - [x] Fully responsive
 
 ## Technologies used:
 - Tachyons library used for design
@@ -22,21 +22,21 @@ Robofriends was built using:
 
 
 ## Getting started:
-1. **Clone this repo**
+**1. Clone this repo**
 ```
 git clone https://helga-sov.github.io/robofriends
 ```
-2. **Change directory to it**
+**2. Change directory to it**
 ```
 cd robofriends
 ```
 
-3. **Install dependencies**
+**3. Install dependencies**
 ```
 npm install
 ```
 
-4. **Run app**
+**4. Run app**
 ```
 npm start
 ```
